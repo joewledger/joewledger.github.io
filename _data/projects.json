@@ -15,14 +15,15 @@
 	},
 	{
 		"name": "UnVolt Backend",
-		"image": "placeholder.jpg",
-		"url": "#",
+		"image": "unvolt.png",
+		"url": "unvolt",
 		"date": "Summer 2016",
 		"tags": ["PHP", "MySQL"]
 	},
 	{
 		"name": "Cell Line Classification",
-		"image": "placeholder.jpg",
+		"image": "pink_ribbon.png",
+		"url": "cell_line_classification",
 		"date": "Summer 2015",
 		"tags": ["Python","Scikit-learn"]
 	}
