@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Indexed PPR",
+		"image": "network.png",
+		"url": "indexed_ppr",
+		"date": "Summer 2016",
+		"tags": ["Python","SciPy","Graphs"]
+	},
+	{
+		"name": "Green Labs Plotting",
+		"image": "lighting.png",
+		"url": "green_labs_plotting",
+		"date": "Spring 2016",
+		"tags": ["Python","PyQt5","Matplotlib"]
+	},
+	{
+		"name": "UnVolt Backend",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "Summer 2016",
+		"tags": ["PHP", "MySQL"]
+	},
+	{
+		"name": "Cell Line Classification",
+		"image": "placeholder.jpg",
+		"date": "Summer 2015",
+		"tags": ["Python","Scikit-learn"]
+	}
+
+]
