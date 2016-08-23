@@ -24,7 +24,7 @@ I started by playing around with the drop-down menues on the Olympic Results sea
 <br/>
 
 <p align="center">
-  <img src="/assets/scrape.PNG" />
+  <img src="http://joeledger.com/assets/scrape.png" />
 </p>
 
 <br/>
