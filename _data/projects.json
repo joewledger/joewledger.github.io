@@ -2,14 +2,14 @@
 	{
 		"name": "Indexed PPR",
 		"image": "network.png",
-		"url": "indexed_ppr",
+		"url": "https://github.com/joewledger/Indexed_PPR",
 		"date": "Summer 2016",
 		"tags": ["Python","SciPy","Graphs"]
 	},
 	{
 		"name": "Green Labs Plotting",
 		"image": "lighting.png",
-		"url": "green_labs_plotting",
+		"url": "https://github.com/joewledger/Green_Labs_Plotting",
 		"date": "Spring 2016",
 		"tags": ["Python","PyQt5","Matplotlib"]
 	},
@@ -18,12 +18,12 @@
 		"image": "unvolt.png",
 		"url": "unvolt",
 		"date": "Summer 2016",
-		"tags": ["PHP", "MySQL"]
+		"tags": ["Java", "Spring Boot", "PostgreSQL"]
 	},
 	{
 		"name": "Cell Line Classification",
 		"image": "pink_ribbon.png",
-		"url": "cell_line_classification",
+		"url": "https://github.com/joewledger/Cell-Line-Classification",
 		"date": "Summer 2015",
 		"tags": ["Python","Scikit-learn"]
 	}
