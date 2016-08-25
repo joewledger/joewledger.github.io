@@ -7,7 +7,7 @@ categories: others
 
 I am writing this post one day after the closing ceremonies of the 2016 Rio Olympic Games. This year's Olympics were truly incredible. My personal highlights were watching Michael Phelps and Allyson Felix win multiple medals for the USA. Of course, watching the media tear apart Ryan Lochte after his gas station gaffe was pretty entertaining to watch from afar as well.
 
-Track and Field is probably my favorite sport to watch at the Olympics. Watching the superstars compete inspired me to work on a new project: ranking the performances of all Track and Field Olympic medalists over the years. To do this, I would need to collect data. However, I found it difficult to find a single data source that had all the results I wanted. It was time for my to compile my own!
+Track and Field is probably my favorite sport to watch at the Olympics. Watching the superstars compete inspired me to work on a new project: ranking the performances of all Track and Field Olympic medalists over the years. To do this, I needed to collect data. However, I found it difficult to find a single data source that had all the results I wanted. It was time for my to compile my own!
 
 Luckily for me, the [official olympics website](https://www.olympic.org/olympic-results) has results for all Athletics events going back to the original Olympic games in 1896. They even provide a nice interface to search for a particular event. However, there was not a convienient listing of what events were contested at each of the Olympic games on this page, so I had to generate my own. One thing I noticed was that the web pages that contained Olympic results had the following URL structure:
 
@@ -29,7 +29,7 @@ I started by playing around with the drop-down menues on the Olympic Results sea
 
 <br/>
 
-I downloaded this page to perform more analysis on it offline. I noticed that the HTML contained a list of all the summer and winter games and their corresponding URL fragments. I used the following Python code snippet and a regular expression to get all the relavent URL fragments.
+I downloaded this page to perform more analysis on it offline. I noticed that the HTML contained a list of all the summer and winter games and their corresponding URL fragments. I used the following Python code snippet and a regular expression to get all the relevant URL fragments.
 
 {% highlight python %}
 
