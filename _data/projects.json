@@ -26,7 +26,7 @@
 		"url": "https://github.com/joewledger/Cell-Line-Classification",
 		"date": "Summer 2015",
 		"tags": ["Python","Scikit-learn"]
-	}
+	},
 	{
 		"name": "Parallel K-Medoids",
 		"image": "k_medoids.png",
