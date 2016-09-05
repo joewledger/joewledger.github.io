@@ -6,3 +6,7 @@ categories: others
 ---
 
 Java Spring Boot is a really cool web framework for building REST APIs. In this post, I will talk about what I like about Spring Boot, as well as tips for creating an awesome web application using it.
+
+{% highlight java %}
+
+{% endhighlight %}
