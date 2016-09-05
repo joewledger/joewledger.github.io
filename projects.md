@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of my projects.
+Here are some of the projects I have worked on. Please take a look around!

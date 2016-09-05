@@ -6,10 +6,11 @@
 }
 .full{ font-size: 16px; }
 .logo-img {
-    width: 56px;
-    height: 56px;
+    width: 75px;
+    height: 75px;
     border-radius: 60px;
     margin: 0 auto;
+    margin-bottom: 15px;
 }
 .logo-turner {
     font-size: 18px;
@@ -25,11 +26,13 @@
     display: inline-block;
     vertical-align: top;
     margin-right: 10px;
+    margin-left: 25px;
 }
 .row-details {
     display: inline-block;
     vertical-align: middle;
     color: #fff;
+    margin-left: 25px;
 }
 p.info {
     color: #fff;
