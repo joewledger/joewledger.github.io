@@ -32,7 +32,7 @@
 		"image": "k_medoids.png",
 		"url": "https://github.com/joewledger/Parallel_K_Medoids",
 		"date": "Spring 2016",
-		"tags": ["C","OpenMP"]
+		"tags": ["C","OpenMP","OpenACC"]
 	}
 
 ]
