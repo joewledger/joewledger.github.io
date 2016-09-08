@@ -156,4 +156,4 @@ save_race_results(urls)
 
 <br/>
 
-And we are done! The resulting text file can be found [here](/assets/race_results.txt), and the github repo containing the script used to generate it can be found [here](https://github.com/joewledger/Olympic_Outliers). In my next post, I will use the data we just scraped to do a cool analysis. Stay tuned!
+And we are done! The resulting text file can be found [here](/assets/race_results.txt), and the github repo containing the script used to generate it can be found [here](https://github.com/joewledger/Olympic_Outliers). Thanks for reading!
